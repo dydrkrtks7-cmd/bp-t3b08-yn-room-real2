@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://yeomchang-nightlife-note.best-hapjeong-pub.xyz/sitemap.xml
+Sitemap: https://yeomchang-nightlife-note.best-hapjeong-pub.xyz/sitemap-pages.xml
